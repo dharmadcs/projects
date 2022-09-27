@@ -1,54 +1,52 @@
-# projects
-All my project is here
+## All my project is here
 
-Berikut Adalah Beberapa Project YAng Pernah Saya Buat :
-
-
-PHP (Laravel) :
+### Berikut Adalah Beberapa Project YAng Pernah Saya Buat :
 
 
-    Blog v1
+**PHP (Laravel) :**
 
-    Project : https://github.com/dharmadcs/blog-v1
-    Website : http://www.blog-v1.epizy.com
+    1. Blog v1
 
-    Blog v2
+    - Project : https://github.com/dharmadcs/blog-v1
+    - Website : http://www.blog-v1.epizy.com
 
-    Project : https://github.com/dharmadcs/blog-v2
-    Website :http://www.blog-v2.epizy.com
+    2. Blog v2
 
-
-    E-Commerce v1
-
-    Project : https://github.com/dharmadcs/ecom-v1
-    Website : http://www.ecom-v1.epizy.com
+    - Project : https://github.com/dharmadcs/blog-v2
+    - Website :http://www.blog-v2.epizy.com
 
 
-    E-Commerce v2
+    3. E-Commerce v1
 
-    Project : https://github.com/dharmadcs/ecom-v2
-    Website : http://www.ecom-v2.epizy.com
-
-
-    API Corona
-
-    Project : https://github.com/dharmadcs/api-corona
-    Website : http://www.api-corona.epizy.com
+    - Project : https://github.com/dharmadcs/ecom-v1
+    - Website : http://www.ecom-v1.epizy.com
 
 
-    API Movie
+    4. E-Commerce v2
 
-    Project : https://github.com/dharmadcs/api-movie
-    Website : http://www.api-movie.epizy.com
+    - Project : https://github.com/dharmadcs/ecom-v2
+    - Website : http://www.ecom-v2.epizy.com
 
 
-    CRUD
+    5. API Corona
 
-    Project : https://github.com/dharmadcs/crdu-dasis
-    Website : http://www.crud-smkn.epizy.com
+    - Project : https://github.com/dharmadcs/api-corona
+    - Website : http://www.api-corona.epizy.com
+
+
+    6. API Movie
+
+    - Project : https://github.com/dharmadcs/api-movie
+    - Website : http://www.api-movie.epizy.com
+
+
+    7. CRUD
+
+    - Project : https://github.com/dharmadcs/crdu-dasis
+    - Website : http://www.crud-smkn.epizy.com
+
 
 KOTLIN (Android Studio) :
-
 
     on project
     on project
