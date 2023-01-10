@@ -37,8 +37,8 @@
 
 **KOTLIN (Android Studio) :**
 
-    on project
-    on project
-    on project
-    on project
-    on project
+1. Project Gabungan
+- Project : https://github.com/dharmadcs/app-uas-dharma
+
+1. Kalkulator Sederhana
+- Project : https://github.com/dharmadcs/uts-kalkulator
