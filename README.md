@@ -1,6 +1,6 @@
 ## All my project is here
 
-### Berikut Adalah Beberapa Project YAng Pernah Saya Buat :
+### Berikut Beberapa Project Yang Saya Buat :
 
 
 **PHP (Laravel) :**
@@ -33,7 +33,7 @@
 - Project : https://github.com/dharmadcs/crdu-dasis
 - Website : http://www.crud-smkn.epizy.com
 
-
+=============
 
 **KOTLIN (Android Studio) :**
 
